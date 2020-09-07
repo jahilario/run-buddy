@@ -12,3 +12,5 @@ https://jahilario.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Josue Hilario
+
+### ©️2019 Run Buddy, Inc
